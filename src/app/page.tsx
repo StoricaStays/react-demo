@@ -271,7 +271,7 @@ export default function Home() {
                     backpacker hostel promises a unique blend of comfort and
                     adventure. Discover cosy dormitory rooms and a private double
                     bedroom, designed to provide a peaceful oasis in the heart of
-                    the city's vibrant old town.
+                    the city&apos;s vibrant old town.
                   </p>
                    {/* <div className="row g-3 pb-4">
                     <div className="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
@@ -591,7 +591,7 @@ export default function Home() {
             <div className="modal-dialog">
               <div className="modal-content rounded-0">
                 <div className="modal-header">
-                  <h5 className="modal-title" id="exampleModalLabel">Room's Images</h5>
+                  <h5 className="modal-title" id="exampleModalLabel">Room&apos;s Images</h5>
                   <button
                     type="button"
                     className="btn-close"
@@ -687,7 +687,7 @@ export default function Home() {
             <div className="modal-dialog">
               <div className="modal-content rounded-0">
                 <div className="modal-header">
-                  <h5 className="modal-title" id="exampleModalLabel">Room's Images</h5>
+                  <h5 className="modal-title" id="exampleModalLabel">Room&apos;s Images</h5>
                   <button
                     type="button"
                     className="btn-close"
@@ -797,7 +797,7 @@ export default function Home() {
             <div className="modal-dialog">
               <div className="modal-content rounded-0">
                 <div className="modal-header">
-                  <h5 className="modal-title" id="exampleModalLabel">Room's Images</h5>
+                  <h5 className="modal-title" id="exampleModalLabel">Room&apos;s Images</h5>
                   <button
                     type="button"
                     className="btn-close"
@@ -893,7 +893,7 @@ export default function Home() {
             <div className="modal-dialog">
               <div className="modal-content rounded-0">
                 <div className="modal-header">
-                  <h5 className="modal-title" id="exampleModalLabel">Room's Images</h5>
+                  <h5 className="modal-title" id="exampleModalLabel">Room&apos;s Images</h5>
                   <button
                     type="button"
                     className="btn-close"
@@ -1003,7 +1003,7 @@ export default function Home() {
             <div className="modal-dialog">
               <div className="modal-content rounded-0">
                 <div className="modal-header">
-                  <h5 className="modal-title" id="exampleModalLabel">Room's Images</h5>
+                  <h5 className="modal-title" id="exampleModalLabel">Room&apos;s Images</h5>
                   <button
                     type="button"
                     className="btn-close"
