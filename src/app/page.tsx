@@ -1107,40 +1107,6 @@ export default function Home() {
             </div>
           </div>  */}
     
-          <div
-            className="modal fade"
-            id="videoModal"
-            tabIndex={-1}
-            aria-labelledby="exampleModalLabel"
-            aria-hidden="true"
-          >
-            <div className="modal-dialog">
-              <div className="modal-content rounded-0">
-                <div className="modal-header">
-                  <h5 className="modal-title" id="exampleModalLabel">Youtube Video</h5>
-                  <button
-                    type="button"
-                    className="btn-close"
-                    data-bs-dismiss="modal"
-                    aria-label="Close"
-                  ></button>
-                </div>
-                <div className="modal-body">
-                   {/* 16:9 aspect ratio  */}
-                  <div className="ratio ratio-16x9">
-                    <iframe
-                      className="embed-responsive-item"
-                      src=""
-                      id="video"
-                      allowFullScreen
-                      allow="autoplay"
-                    ></iframe>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-           {/* Video end  */}
     
            {/* Contact Start  */}
           <div className="container-xxl py-5" id="Contact">
@@ -1345,21 +1311,6 @@ export default function Home() {
             ><i className="bi bi-arrow-up"></i
           ></a>  */}
         </div>
-
-        {/* JavaScript Libraries */}
-        <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-        <script src="lib/wow/wow.min.js"></script>
-        <script src="lib/easing/easing.min.js"></script>
-        <script src="lib/waypoints/waypoints.min.js"></script>
-        <script src="lib/counterup/counterup.min.js"></script>
-        <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-        <script src="lib/tempusdominus/js/moment.min.js"></script>
-        <script src="lib/tempusdominus/js/moment-timezone.min.js"></script>
-        <script src="lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js"></script>
-
-        {/* Template Javascript */}
-        <script src="js/main.js"></script>
         </>
     );
 
