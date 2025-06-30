@@ -156,7 +156,7 @@ export default function About() {
                     <Image
                       className="img-fluid rounded w-75 wow zoomIn"
                       data-wow-delay="0.1s"
-                      src="/img/General/CKC03844-HDR.jpg"
+                      src="img/General/CKC03844-HDR.jpg"
                       style={{marginTop: "25%"}}
                       alt="Storica Stays Heritage Property"
                       width={800}
@@ -167,7 +167,7 @@ export default function About() {
                     <Image
                       className="img-fluid rounded w-100 wow zoomIn"
                       data-wow-delay="0.3s"
-                      src="/img/General/CKC03886-HDR.jpg"
+                      src="img/General/CKC03886-HDR.jpg"
                       alt="Rooftop Restaurant View"
                       width={800}
                       height={600}
@@ -177,7 +177,7 @@ export default function About() {
                     <Image
                       className="img-fluid rounded w-100 wow zoomIn"
                       data-wow-delay="0.5s"
-                      src="/img/General/CKC03983-HDR.jpg"
+                      src="img/General/CKC03983-HDR.jpg"
                       alt="Heritage Architecture"
                       width={800}
                       height={600}
@@ -187,7 +187,7 @@ export default function About() {
                     <Image
                       className="img-fluid rounded w-75 wow zoomIn"
                       data-wow-delay="0.7s"
-                      src="/img/General/CKC03907-HDR.jpg"
+                      src="img/General/CKC03907-HDR.jpg"
                       alt="Traditional Decor"
                       width={800}
                       height={600}
