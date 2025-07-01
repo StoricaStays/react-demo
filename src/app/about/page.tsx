@@ -4,27 +4,6 @@ import Link from 'next/link';
 export default function About() {
   return (
     <div className="container-xxl bg-white p-0">
-
-        {/* Page Header Start */}
-        <div className="container-fluid page-header mb-5 p-0" style={{background: "linear-gradient(rgba(47, 123, 191, 0.7), rgba(47, 123, 191, 0.7)), url(/img/General/CKC03886-HDR.jpg)"}}>
-          <div className="container-fluid page-header-inner py-5">
-            <div className="container text-center pb-5">
-              <div className="row justify-content-center">
-                <div className="col-lg-10 pt-lg-5 mt-lg-5">
-                  <h1 className="display-3 text-white mb-3 animated slideInDown">About Us</h1>
-                  <nav aria-label="breadcrumb">
-                    <ol className="breadcrumb justify-content-center">
-                      <li className="breadcrumb-item"><Link href="/">Home</Link></li>
-                      <li className="breadcrumb-item text-white active" aria-current="page">About</li>
-                    </ol>
-                  </nav>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        {/* Page Header End */}
-
         {/* About Start */}
         <div className="container-xxl py-5">
           <div className="container">
